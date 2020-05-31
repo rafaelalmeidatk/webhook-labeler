@@ -45,7 +45,7 @@ $ vercel
 
 6. After submiting the form, a `ping` event will be sent to confirm if everything is correct.
 
-You can use the same deploy for multiple repos.
+> You can use the same Payload URL for multiple repos, as long as the user that generated the GitHub token has permissions to read and change labels for all these repos
 
 ## Development
 
